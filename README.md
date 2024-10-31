@@ -1,5 +1,10 @@
-# leetcode
-you can find all my leetcode solutions in this repository
+# LeetCode Solutions
+Welcome to my LeetCode solutions repository! Here, you'll find solutions to various LeetCode problems, all implemented in JavaScript. I’ve organized the solutions by topic to make it easier to navigate and study specific concepts.
+
+# About
+Each solution includes detailed code to help you understand the approach taken to solve each problem. This repository is a work-in-progress as I continue to tackle new problems and add solutions.
+
+Feel free to explore, and if you have suggestions or improvements, don't hesitate to contribute!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
