@@ -16,11 +16,13 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +35,8 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
