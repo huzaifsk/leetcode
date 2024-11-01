@@ -16,8 +16,21 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
