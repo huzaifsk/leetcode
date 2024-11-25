@@ -26,3 +26,21 @@ var join = function(arr1, arr2) {
 
     return result;
 };
+
+
+// var join = function(arr1, arr2) {
+//   const combinedArray = arr1.concat(arr2);
+//   const merged = {};
+
+//   combinedArray.forEach((obj) => {
+//     const id = obj.id;
+//     if (!merged[id]) {
+//       merged[id] = obj;
+//     } else {
+//         Object.assign(merged[id],obj)
+//       //merged[id] = { ...merged[id], ...obj };
+//     }
+//   });
+
+//   return Object.values(merged)
+// };
