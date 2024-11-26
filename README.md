@@ -16,6 +16,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+| [0233-number-of-digit-one](https://github.com/huzaifsk/leetcode/tree/master/0233-number-of-digit-one) |
 | [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -26,10 +27,12 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/huzaifsk/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/huzaifsk/leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/huzaifsk/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
