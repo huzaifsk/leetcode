@@ -12,6 +12,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +43,12 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
