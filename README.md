@@ -17,6 +17,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/huzaifsk/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
 | [0233-number-of-digit-one](https://github.com/huzaifsk/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
