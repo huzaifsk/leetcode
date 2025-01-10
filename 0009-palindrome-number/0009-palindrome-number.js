@@ -31,6 +31,7 @@ function isAlnum(char) {
     return /^[a-zA-Z0-9]$/.test(char);
 }
 
+// OR
 
 var isPalindrome = function(x) {
     let numCheck = x.toString().split('').reverse().join('');
