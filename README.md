@@ -29,6 +29,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/huzaifsk/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/huzaifsk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
@@ -67,4 +68,8 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/huzaifsk/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
