@@ -11,6 +11,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/huzaifsk/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/huzaifsk/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
 ## Sorting
