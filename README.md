@@ -15,6 +15,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 | [0013-roman-to-integer](https://github.com/huzaifsk/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/huzaifsk/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 | [0125-valid-palindrome](https://github.com/huzaifsk/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/huzaifsk/leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/huzaifsk/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/huzaifsk/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/huzaifsk/leetcode/tree/master/0125-valid-palindrome) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/huzaifsk/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
