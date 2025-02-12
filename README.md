@@ -57,6 +57,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/huzaifsk/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/huzaifsk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -75,6 +76,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/huzaifsk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/huzaifsk/leetcode/tree/master/0125-valid-palindrome) |
 ## Counting
 |  |
