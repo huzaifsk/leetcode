@@ -60,6 +60,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 | [0001-two-sum](https://github.com/huzaifsk/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/huzaifsk/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/huzaifsk/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/huzaifsk/leetcode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/huzaifsk/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -70,6 +71,7 @@ Feel free to explore, and if you have suggestions or improvements, don't hesitat
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/huzaifsk/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/huzaifsk/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
